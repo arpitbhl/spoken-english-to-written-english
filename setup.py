@@ -1,3 +1,4 @@
+#setup file 
 import os
 try:
     from setuptools import setup
@@ -14,11 +15,6 @@ def open_file(fname):
         license=open('LICENSE').read(),
         description='Convert Spoken English given as text to Written English ',
         author='Arpit Toshniwal',
-        author_email='arpitbhl@gmail.com',
-        url='https://github.com/arpitbhl/spoken-english-to-written-english',
-        classifiers=[
-            'Intended Audience :: Developers',
-            'Programming Language :: Python'
-        ]
-
+        author_email='arpitbhl1234@gmail.com',
+        url='https://github.com/arpitbhl/spoken-english-to-written-english'
     )
