@@ -1,4 +1,4 @@
-# Helper Functions here
+# Helper Functions
 
 # Function checkCommas: checks if word has comma at front or at last or at both if true then return front,word and last
 def checkCommas(word):
